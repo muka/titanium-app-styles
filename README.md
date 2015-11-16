@@ -64,8 +64,12 @@ Text colors
 Text sizes
 
 - `.title`
-- `.text-big`
-- `.text-small`
+- `.bold`
+- `.bigger`
+- `.big`
+- `.medium`
+- `.small`
+- `.smaller`
 
 Spacers
 ---
