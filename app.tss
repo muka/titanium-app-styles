@@ -229,15 +229,41 @@
   }
 }
 
-".text-big": {
+".bold": {
+  font: {
+    fontWeight: "bold",
+  }
+}
+
+
+".bigger": {
+  font: {
+    fontSize: 28
+  }
+}
+
+".big": {
   font: {
     fontSize: 24
   }
 }
 
-".text-small": {
+".medium": {
+  font: {
+    fontSize: 18
+  }
+
+}
+
+".small": {
   font: {
     fontSize: 12
+  }
+}
+
+".smaller": {
+  font: {
+    fontSize: 10
   }
 }
 
