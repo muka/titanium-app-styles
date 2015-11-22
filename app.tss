@@ -295,7 +295,21 @@
 ".block5": {
   height: 200
 }
-
+".block6": {
+  height: 240
+}
+".block7": {
+  height: 280
+}
+".block8": {
+  height: 320
+}
+".block9": {
+  height: 360
+}
+".block10": {
+  height: 400
+}
 ".block40": {
   height: "40%",
 }
