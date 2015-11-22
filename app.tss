@@ -280,6 +280,33 @@
   bottom: 10
 }
 
+
+".top20": {
+  top: "20%"
+}
+".right20": {
+  right: "20%"
+}
+".left20": {
+  left: "20%"
+}
+".bottom20": {
+  bottom: "20%"
+}
+
+".top40": {
+  top: "40%"
+}
+".right40": {
+  right: "40%"
+}
+".left40": {
+  left: "40%"
+}
+".bottom40": {
+  bottom: "40%"
+}
+
 ".block": {
   height: 40
 }
