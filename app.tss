@@ -346,3 +346,24 @@
 ".block100": {
   height: "100%",
 }
+
+
+".bg_blue": {
+  backgroundColor: "blue",
+}
+".bg_red": {
+  backgroundColor: "red",
+}
+".bg_green": {
+  backgroundColor: "green",
+}
+".bg_orange": {
+  backgroundColor: "orange",
+}
+".bg_yellow": {
+  backgroundColor: "yellow",
+}
+".bg_purple": {
+  backgroundColor: "purple",
+}
+
