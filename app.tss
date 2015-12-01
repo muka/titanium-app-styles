@@ -235,6 +235,28 @@
   height: "50%"
 }
 
+".vspacer10": {
+  width: "100%",
+  height: 10
+}
+".vspacer20": {
+  width: "100%",
+  height: 20
+}
+".vspacer30": {
+  width: "100%",
+  height: 30
+}
+".vspacer40": {
+  width: "100%",
+  height: 40
+}
+".vspacer50": {
+  width: "100%",
+  height: 50
+}
+
+
 ".title": {
   font: {
     fontWeight: "bold",
