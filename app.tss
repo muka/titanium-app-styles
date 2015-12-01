@@ -210,6 +210,23 @@
   width: "50%",
 }
 
+".hspacer10": {
+  width: 10,
+}
+".hspacer20": {
+  width: 20,
+}
+".hspacer30": {
+  width: 30,
+}
+".hspacer40": {
+  width: 40,
+}
+".hspacer50": {
+  width: 50,
+}
+
+
 ".vspacer": {
   width: "100%",
   height: "5%"
