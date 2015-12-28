@@ -102,3 +102,8 @@ fixed heights blocks
 - `.block40` height 40%
 - `.block80` height 80%
 - `.block100` height 100%
+
+Heights
+---
+
+- `.h[10-100]` Set height, avail from 10 to 100, with steps of 10
