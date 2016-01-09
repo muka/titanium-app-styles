@@ -78,7 +78,7 @@ Spacers
 
 - `.[h|v]spacer` spaces 5%
 - `.[h|v]spacer[1-5]` from 10% to 50%
-- `.[h|v]spacer[10-200]` from 10 to 50, step of 10
+- `.[h|v]spacer[10-50]` from 10 to 50
 
 Positioning
 ---
@@ -106,4 +106,4 @@ fixed heights blocks
 Heights
 ---
 
-- `.h[10-100]` Set height, avail from 10 to 100, with steps of 10
+- `.h[10-200]` Set height, steps of 10
