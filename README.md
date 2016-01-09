@@ -78,7 +78,7 @@ Spacers
 
 - `.[h|v]spacer` spaces 5%
 - `.[h|v]spacer[1-5]` from 10% to 50%
-- `.[h|v]spacer[10-50]` from 10 to 50
+- `.[h|v]spacer[10-200]` from 10 to 50, step of 10
 
 Positioning
 ---
